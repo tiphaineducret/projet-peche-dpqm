@@ -1,0 +1,42 @@
+armement_id,espece,campagne,quota_kg_alloue
+ARM01,Legine australe,2023-2024,2905.0
+ARM01,Langouste,2023-2024,609.0
+ARM01,Poisson des glaces,2023-2024,275.0
+ARM01,Poulpe austral,2023-2024,126.0
+ARM01,Legine australe,2024-2025,2419.0
+ARM01,Poisson des glaces,2024-2025,361.0
+ARM01,Poulpe austral,2024-2025,539.0
+ARM01,Legine australe,2025-2026,5463.0
+ARM01,Langouste,2025-2026,1964.0
+ARM01,Poisson des glaces,2025-2026,576.0
+ARM02,Langouste,2023-2024,1724.0
+ARM02,Poisson des glaces,2023-2024,1031.0
+ARM02,Poulpe austral,2023-2024,483.0
+ARM02,Poisson des glaces,2024-2025,756.0
+ARM02,Poulpe austral,2024-2025,510.0
+ARM02,Legine australe,2025-2026,3799.0
+ARM02,Langouste,2025-2026,1548.0
+ARM02,Poisson des glaces,2025-2026,883.0
+ARM02,Poulpe austral,2025-2026,611.0
+ARM03,Legine australe,2023-2024,7881.0
+ARM03,Poisson des glaces,2023-2024,398.0
+ARM03,Poulpe austral,2023-2024,127.0
+ARM03,Legine australe,2024-2025,6587.0
+ARM03,Langouste,2024-2025,1813.0
+ARM03,Poisson des glaces,2024-2025,973.0
+ARM03,Poulpe austral,2024-2025,419.0
+ARM03,Legine australe,2025-2026,7668.0
+ARM03,Langouste,2025-2026,1496.0
+ARM03,Poisson des glaces,2025-2026,1041.0
+ARM03,Poulpe austral,2025-2026,675.0
+ARM04,Legine australe,2023-2024,4315.0
+ARM04,Langouste,2023-2024,534.0
+ARM04,Poisson des glaces,2023-2024,352.0
+ARM04,Legine australe,2024-2025,2776.0
+ARM04,Langouste,2024-2025,1086.0
+ARM04,Poulpe austral,2024-2025,485.0
+ARM04,Legine australe,2025-2026,6916.0
+ARM04,Langouste,2025-2026,918.0
+ARM04,Poisson des glaces,2025-2026,1349.0
+ARM04,Poulpe austral,2025-2026,206.0
+ARM02,Legine australe,2024/2025,4500

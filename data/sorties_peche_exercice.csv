@@ -1,0 +1,489 @@
+id_sortie,bateau,date_sortie,zone,espece,quantite_kg
+1,Cap Horn,2023-12-09,Crozet-Est,Poulpe austral,-24.0
+2,Austral Leader,08/04/2023,Kerguelen-Golfe du Morbihan,Poisson des glaces,61.0
+3,Austral Leader,14-12-2023,Crozet-Ouest,Raie,8.2
+4,Pointe Geologie,09/10/2024,Crozet Est ,Poisson des glaces,n/a
+5,Albatros II,28-10-2025,Crozet-Est,Legine australe,629.8
+6,Cap Horn,13-02-2023,Kerguelen-Nord,Langouste,39.3
+7,Albatros II,21/11/2025,Crozet-Ouest,Poulpe austral,8.2
+8,Marion Dufresne (peche),2024-11-23,crozet est,Langouste,122.7
+9,Marion Dufresne (peche),07-02-2024,Kerguelen-Sud,Poisson des glaces,66.1
+10,Kerguelen Etoile,08-03-2024,Zone inconnue,Poulpe austral,10.3
+11,Kerguelen Etoile,03/08/2025,Kerguelen Nord,Langouste,69.1
+12,Cap Horn,20/07/24,Kerguelen-Golfe du Morbihan,Legine australe,135.9
+13,Amsterdam I,11/11/2024,Crozet-Ouest,Poisson des glaces,
+14,Albatros II,17/03/2025,Crozet-Ouest ,Poulpe austral,7.8
+15,Kerguelen Etoile,01-09-2025,Crozet-Est,Raie,16.8
+16,Albatros II,08/01/2023,Kerguelen-Sud,Legine australe,449.5
+17,Kerguelen Etoile,2023-11-16,Kerguelen-Golfe du Morbihan,Poisson des glaces,93.2
+18,Croix du Sud,13-05-2025,Kerguelen-Golfe du Morbihan,Poisson des glaces,26.3
+19,Pointe Geologie,2023-10-18,Crozet-Est,Legine australe,94.2
+20,Cap Horn,2023-06-03,Kerguelen-Sud,Langouste,111.3
+21,Curieuse,08/08/25,kerguelen-sud,Legine australe,-24.4
+22,Marion Dufresne (peche),28/08/2024,Crozet Est ,Legine australe,304.5
+23,Cap Horn,07/04/23,Crozet-Ouest,Raie,17.6
+24,Cap Horn,04/09/2024,crozet est,Legine australe,686.5
+25,Kerguelen Etoile,2024-08-16,crozet est,Langouste,147.9
+26,Albatros II,14/05/24,Kerguelen-Nord,Langouste,91.1
+27,Amsterdam I,11/12/2023,Kerguelen-Sud,Poulpe austral,22.2
+28,Austral Leader,2025-02-28,Crozet-Est,Langouste,141.8
+29,Curieuse,20/10/2023,Kerguelen-Sud,Poulpe austral,14.0
+30,Albatros II,23-11-2023,Kerguelen-Sud,Langouste,52.0
+31,Pointe Geologie,15/01/2023,Crozet-Ouest,Poulpe austral,37.5
+32,Cap Horn,2023-06-10,Kerguelen-Golfe du Morbihan,Raie,19.8
+33,Amsterdam I,27-11-2023,,Legine australe,150.7
+34,Cap Horn,2023-12-18,Kerguelen-Golfe du Morbihan,Langouste,38.5
+35,Albatros II,09/08/2025,Kerguelen-Sud,Raie,
+36,Pointe Geologie,2023-11-09,Zone inconnue,Poulpe austral,
+37,Cap Horn,18/03/2025,Kerguelen Nord,Poisson des glaces,34.3
+38,Austral Leader,2024-04-22,Kerguelen nord ,Poulpe austral,17.4
+39,Curieuse,2025-03-08,,Langouste,13.5
+40,Pointe Geologie,2024-11-28,Crozet-Est,Poisson des glaces,86.6
+41,Croix du Sud,12-08-2023,kerguelen-sud,Langouste,
+42,Croix du Sud,09/06/2024,,Raie,10.7
+43,Amsterdam I,04-01-2024,Kerguelen-Nord,Legine australe,375.9
+44,Pointe Geologie,17/10/2024,Kerguelen-Golfe du Morbihan,Langouste,109.2
+45,Austral Leader,2025-09-22,Crozet-Est,Raie,13.6
+46,Cap Horn,17-05-2025,Kerguelen nord ,Poisson des glaces,57.7
+47,Croix du Sud,2024-11-13,Kerguelen-Nord,Poisson des glaces,5.0
+48,Albatros II,26-07-2023,Kerguelen-Sud,Langouste,121.1
+49,Kerguelen Etoile,10-02-2025,Crozet-Ouest,Raie,4.8
+50,Austral Leader,16/04/2023,Kerguelen-Golfe du Morbihan,Langouste,63.8
+51,Marion Dufresne (peche),21/03/2023,Crozet Est ,Poisson des glaces,81.4
+52,Amsterdam I,2024-01-18,,Legine australe,651.1
+53,Amsterdam I,11/10/25,Kerguelen-Golfe du Morbihan,Poisson des glaces,57.0
+54,Kerguelen Etoile,15-08-2025,Crozet-Ouest ,Poulpe austral,11.1
+55,Saint Paul,2023-12-10,Kerguelen-Nord,Poulpe austral,-11.8
+56,Marion Dufresne (peche),2025-03-23,Kerguelen-Sud,Raie,8.9
+57,Croix du Sud,25/07/2024,Zone inconnue,Poisson des glaces,
+58,Pointe Geologie,28/07/24,Kerguelen-Golfe du Morbihan,Poulpe austral,20.6
+59,Albatros II,01/08/24,Kerguelen-Sud,Langouste,138.7
+60,Curieuse,13/01/2025,Kerguelen-Sud,Langouste,35.4
+61,Albatros II,07/06/24,Kerguelen-Sud,Raie,16.8
+62,Albatros II,01/08/2023,,Raie,2.3
+63,Austral Leader,07/04/2023,Crozet-Ouest,Langouste,26.0
+64,Croix du Sud,09-12-2024,Kerguelen-Golfe du Morbihan,Legine australe,172.8
+65,Albatros II,01-10-2023,Kerguelen-Sud,Poisson des glaces,23.8
+66,Curieuse,08/11/2025,Crozet-Ouest ,Poulpe austral,32.3
+67,Curieuse,18/06/23,Crozet Est ,Poulpe austral,2.5
+68,Marion Dufresne (peche),14-02-2024,Kerguelen-Sud,Langouste,112.7
+69,Albatros II,25/09/25,Kerguelen-Golfe du Morbihan,Raie,5.7
+70,Cap Horn,08/08/24,Kerguelen-Sud,Raie,
+71,Pointe Geologie,07-08-2023,Kerguelen nord ,Raie,14.3
+72,Albatros II,2025-01-17,Kerguelen-Sud,Poisson des glaces,27.8
+73,Saint Paul,16/12/25,Crozet Est ,Raie,14.1
+74,Albatros II,12/10/25,Kerguelen-Nord,Poisson des glaces,57.3
+75,Pointe Geologie,09-08-2025,Crozet-Est,Langouste,114.0
+76,Kerguelen Etoile,24/04/23,Kerguelen-Golfe du Morbihan,Poulpe austral,39.3
+77,Croix du Sud,2024-04-12,Kerguelen-Golfe du Morbihan,Langouste,146.4
+78,Amsterdam I,05/12/24,Crozet-Est,Poulpe austral,20.2
+79,Pointe Geologie,09/01/23,Crozet-Est,Poisson des glaces,59.8
+80,Austral Leader,26-03-2023,Crozet-Ouest,Legine australe,362.1
+81,Curieuse,25/04/25,Kerguelen-Sud,Raie,19.8
+82,Albatros II,02/10/2025,,Langouste,47.1
+83,Cap Horn,06/04/2023,Kerguelen-Sud,Poisson des glaces,49.6
+84,Austral Leader,23-05-2023,Crozzet-Est,Legine australe,742.9
+85,Curieuse,14/04/2025,Crozet-Ouest,Raie,2.4
+86,Kerguelen Etoile,24-10-2024,Kerguelen-Sud,Raie,18.9
+87,Amsterdam I,15/08/2025,Kerguelen-Sud,Raie,1.5
+88,Croix du Sud,19/10/2025,,Raie,15.5
+89,Kerguelen Etoile,21/09/24,,Langouste,71.0
+90,Saint Paul,12/08/23,Crozet-Est,Langouste,107.1
+91,Albatros II,27/07/2025,Kerguelen-Nord,Raie,19.4
+92,Marion Dufresne (peche),22/01/25,Crozet-Ouest,Poulpe austral,30.7
+93,Saint Paul,2023-04-09,,Poisson des glaces,51.0
+94,Austral Leader,2025-10-26,Crozet-Ouest ,Poulpe austral,
+95,Marion Dufresne (peche),27/04/2023,Crozet-Est,Langouste,110.3
+96,Amsterdam I,14/05/25,,Langouste,30.2
+97,Croix du Sud,2025-09-24,Crozet-Ouest ,Poisson des glaces,79.8
+98,Albatros II,24-05-2023,Crozzet-Est,Langouste,77.8
+99,Pointe Geologie,13/09/25,,Langouste,43.4
+100,Marion Dufresne (peche),02-07-2023,Zone inconnue,Poisson des glaces,80.3
+101,Kerguelen Etoile,05-01-2024,Crozzet-Est,Legine australe,392.7
+102,Kerguelen Etoile,05/11/2024,Kerguelen-Nord,Raie,8.6
+103,Cap Horn,28/11/24,,Poisson des glaces,8.4
+104,Cap Horn,22-11-2023,,Legine australe,123.8
+105,Cap Horn,23-03-2024,,Legine australe,92.1
+106,Pointe Geologie,2024-07-05,Kerguelen-Golfe du Morbihan,Langouste,21.1
+107,Marion Dufresne (peche),08/11/25,,Langouste,99.3
+108,Saint Paul,01/11/24,,Poulpe austral,18.8
+109,Pointe Geologie,21/05/25,Crozzet-Est,Raie,8.3
+110,Saint Paul,13-04-2023,Kerguelen-Nord,Legine australe,543.7
+111,Albatros II,28/10/2023,,Poisson des glaces,90.8
+112,Croix du Sud,2025-06-08,Crozet-Ouest,Legine australe,534.8
+113,Albatros II,19-01-2024,Crozet Est ,Raie,8.9
+114,Croix du Sud,12-09-2023,Crozet-Ouest ,Poisson des glaces,33.0
+115,Pointe Geologie,2023-08-03,kerguelen-sud,Poisson des glaces,81.4
+116,Pointe Geologie,01-07-2023,Kerguelen-Sud,Raie,13.8
+117,Curieuse,12/11/2024,Crozzet-Est,Legine australe,757.4
+118,Pointe Geologie,21/04/2025,Kerguelen-Sud,Raie,3.2
+119,Austral Leader,16/05/2023,Kerguelen-Golfe du Morbihan,Langouste,61.9
+120,Amsterdam I,2024-10-24,Crozet Est ,Poisson des glaces,94.2
+121,Albatros II,2023-12-12,Crozet-Ouest,Raie,-35.9
+122,Amsterdam I,02/06/25,Crozet-Est,Poisson des glaces,-14.5
+123,Curieuse,26-01-2023,Crozet-Ouest,Poulpe austral,33.5
+124,Amsterdam I,2023-10-07,Crozet-Ouest,Poulpe austral,
+125,Kerguelen Etoile,2023-09-09,Crozet-Est,Langouste,
+126,Croix du Sud,2025-06-01,Crozet-Ouest,Poisson des glaces,75.8
+127,Saint Paul,17/06/2024,Crozet-Ouest,Poulpe austral,
+128,Amsterdam I,21/08/2024,Kerguelen-Sud,Poisson des glaces,15.3
+129,Saint Paul,2023-02-11,Kerguelen-Nord,Poulpe austral,22.8
+130,Pointe Geologie,17-10-2024,Kerguelen-Golfe du Morbihan,Poisson des glaces,-36.6
+131,Amsterdam I,14/04/25,Zone inconnue,Raie,8.6
+132,Cap Horn,11-07-2024,Crozet-Ouest,Poisson des glaces,n/a
+133,Cap Horn,04-07-2023,crozet est,Poulpe austral,23.3
+134,Cap Horn,28/06/24,crozet est,Raie,7.7
+135,Curieuse,05/04/25,Crozet-Est,Raie,8.0
+136,Albatros II,26/04/25,crozet est,Poulpe austral,33.5
+137,Albatros II,09-03-2023,,Raie,
+138,Kerguelen Etoile,13/11/2025,Crozet-Est,Legine australe,211.3
+139,Marion Dufresne (peche),06-06-2024,Kerguelen-Nord,Poulpe austral,35.6
+140,Kerguelen Etoile,02/10/2023,Kerguelen-Sud,Poisson des glaces,44.3
+141,Croix du Sud,12/02/25,Kerguelen-Golfe du Morbihan,Poisson des glaces,34.3
+142,Croix du Sud,02/10/2024,Crozet-Ouest,Langouste,50.5
+143,Cap Horn,24/08/23,Kerguelen-Sud,Poulpe austral,21.0
+144,Pointe Geologie,28/07/2023,Kerguelen-Sud,Legine australe,481.8
+145,Curieuse,21/12/24,Kerguelen-Sud,Legine australe,178.9
+146,Curieuse,12/12/2024,Crozet-Est,Langouste,66.1
+147,Cap Horn,24-05-2024,Crozet-Ouest,Legine australe,135.5
+148,Amsterdam I,2023-06-12,Crozet-Ouest,Raie,12.4
+149,Cap Horn,16/11/23,Crozzet-Est,Poulpe austral,39.5
+150,Pointe Geologie,05/06/25,Kerguelen-Sud,Raie,12.2
+151,Pointe Geologie,10/02/25,Crozet-Est,Raie,2.5
+152,Cap Horn,17/10/25,Kerguelen-Golfe du Morbihan,Legine australe,657.4
+153,Croix du Sud,2024-10-16,,Poisson des glaces,90.4
+154,Pointe Geologie,2025-02-17,Kerguelen-Sud,Poisson des glaces,62.9
+155,Pointe Geologie,13/05/24,crozet est,Raie,n/a
+156,Cap Horn,13-11-2025,Kerguelen-Golfe du Morbihan,Langouste,91.6
+157,Kerguelen Etoile,21/05/24,Crozet-Est,Raie,13.2
+158,Pointe Geologie,23/11/2023,Kerguelen-Sud,Poulpe austral,15.8
+159,Kerguelen Etoile,25/06/23,Crozet-Ouest,Langouste,n/a
+160,Cap Horn,27/09/2025,Kerguelen Nord,Poulpe austral,8.2
+161,Curieuse,15/12/2023,Crozet-Ouest,Poisson des glaces,76.5
+162,Saint Paul,08-09-2023,,Poisson des glaces,23.4
+163,Curieuse,25-08-2024,Zone inconnue,Langouste,122.2
+164,Kerguelen Etoile,21/01/24,Crozet Est ,Poulpe austral,12.8
+165,Kerguelen Etoile,2024-08-17,Crozet Est ,Langouste,133.8
+166,Austral Leader,13-01-2024,Crozet-Est,Raie,7.1
+167,Cap Horn,2025-11-11,Kerguelen-Nord,Poisson des glaces,18.2
+168,Saint Paul,01/10/2024,Crozet-Ouest,Langouste,111.8
+169,Amsterdam I,25-02-2024,Crozet-Est,Legine australe,529.2
+170,Curieuse,04/02/24,Crozet-Est,Poulpe austral,29.3
+171,Albatros II,20-01-2024,Kerguelen-Sud,Langouste,22.0
+172,Pointe Geologie,18/09/2023,Kerguelen-Sud,Legine australe,785.8
+173,Albatros II,12/01/2025,Crozet-Est,Poulpe austral,14.6
+174,Austral Leader,2024-09-11,Crozzet-Est,Poisson des glaces,82.1
+175,Cap Horn,02-08-2025,Crozet-Ouest,Legine australe,282.6
+176,Marion Dufresne (peche),09/08/2025,kerguelen-sud,Raie,15.8
+177,Pointe Geologie,26-02-2024,Kerguelen-Sud,Poisson des glaces,41.7
+178,Kerguelen Etoile,16-12-2024,,Poulpe austral,5.1
+179,Marion Dufresne (peche),2023-07-20,Kerguelen-Nord,Legine australe,-34.7
+180,Albatros II,23/10/24,Kerguelen-Sud,Raie,14.8
+181,Pointe Geologie,09/07/2025,Kerguelen-Sud,Raie,15.2
+182,Kerguelen Etoile,28/03/23,Crozet-Est,Langouste,61.3
+183,Marion Dufresne (peche),2025-01-20,Kerguelen nord ,Raie,2.5
+184,Kerguelen Etoile,13-06-2025,Crozet-Ouest,Legine australe,
+185,Kerguelen Etoile,13/09/2024,Kerguelen-Nord,Poisson des glaces,63.1
+186,Saint Paul,05/02/2023,Kerguelen-Sud,Legine australe,775.7
+187,Pointe Geologie,23/06/2025,Kerguelen-Nord,Raie,14.5
+188,Kerguelen Etoile,08/09/2024,,Langouste,79.2
+189,Pointe Geologie,12/10/25,Kerguelen Nord,Poulpe austral,4.5
+190,Marion Dufresne (peche),16/12/25,Crozet Est ,Langouste,99.9
+191,Saint Paul,17-11-2024,Kerguelen-Golfe du Morbihan,Poulpe austral,38.7
+192,Marion Dufresne (peche),27/01/2025,Kerguelen-Nord,Langouste,140.9
+193,Croix du Sud,10/09/2024,Kerguelen-Golfe du Morbihan,Raie,6.8
+194,Amsterdam I,2023-09-21,Kerguelen-Golfe du Morbihan,Langouste,97.4
+195,Curieuse,02/10/2024,Kerguelen-Golfe du Morbihan,Raie,15.6
+196,Marion Dufresne (peche),01/11/25,Crozet-Ouest ,Raie,16.3
+197,Marion Dufresne (peche),03/08/2024,Kerguelen-Sud,Poisson des glaces,37.3
+198,Kerguelen Etoile,11-12-2024,,Langouste,82.1
+199,Cap Horn,15/04/2024,Crozet-Ouest,Langouste,-18.1
+200,Marion Dufresne (peche),2025-07-08,Kerguelen nord ,Langouste,79.8
+201,Amsterdam I,10/08/24,Kerguelen-Sud,Poulpe austral,11.1
+202,Curieuse,02-01-2024,Kerguelen-Sud,Raie,17.1
+203,Marion Dufresne (peche),24-05-2023,Kerguelen nord ,Legine australe,477.7
+204,Croix du Sud,10/09/2024,Kerguelen-Sud,Poulpe austral,39.6
+205,Curieuse,04/03/23,Kerguelen-Nord,Poulpe austral,30.7
+206,Croix du Sud,13/09/2025,Crozet-Ouest,Raie,10.9
+207,Kerguelen Etoile,05-09-2025,,Raie,19.8
+208,Albatros II,17/06/25,Crozet-Ouest ,Poisson des glaces,40.0
+209,Cap Horn,10/10/2024,Kerguelen-Nord,Poulpe austral,29.4
+210,Curieuse,17/03/24,Crozet-Ouest,Legine australe,575.4
+211,Croix du Sud,11/08/23,Crozet-Ouest,Poisson des glaces,63.1
+212,Saint Paul,2025-12-02,Kerguelen-Golfe du Morbihan,Raie,10.1
+213,Marion Dufresne (peche),15-03-2024,Kerguelen-Nord,Poulpe austral,38.4
+214,Albatros II,08-05-2025,kerguelen-sud,Poisson des glaces,38.1
+215,Albatros II,19/02/24,Zone inconnue,Raie,16.3
+216,Albatros II,23/05/2023,Kerguelen-Sud,Raie,5.1
+217,Amsterdam I,23-09-2024,Kerguelen-Golfe du Morbihan,Poulpe austral,3.9
+218,Amsterdam I,08/11/2023,Kerguelen-Nord,Poisson des glaces,78.2
+219,Austral Leader,14/03/25,Crozet-Ouest,Raie,13.3
+220,Cap Horn,08/10/2025,,Langouste,127.3
+221,Austral Leader,06-08-2024,crozet est,Raie,3.0
+222,Pointe Geologie,21/08/24,Kerguelen Nord,Poulpe austral,9.3
+223,Cap Horn,24/03/24,Crozet-Ouest,Legine australe,643.1
+224,Curieuse,06/04/25,Kerguelen nord ,Legine australe,121.5
+225,Kerguelen Etoile,08/06/2024,Crozet-Ouest,Poisson des glaces,95.6
+226,Albatros II,19/12/2025,Kerguelen-Nord,Langouste,n/a
+227,Cap Horn,06/05/24,Crozet-Ouest ,Legine australe,755.5
+228,Pointe Geologie,2025-04-08,Kerguelen-Sud,Poulpe austral,28.7
+229,Saint Paul,2025-11-27,Crozet Est ,Poulpe austral,28.7
+230,Cap Horn,2025-02-02,Crozet-Ouest,Langouste,82.8
+231,Cap Horn,23/04/25,Kerguelen-Golfe du Morbihan,Poisson des glaces,48.1
+232,Amsterdam I,19/08/2024,Kerguelen-Nord,Legine australe,662.3
+233,Croix du Sud,02/02/25,Crozet-Est,Poulpe austral,37.5
+234,Cap Horn,10/01/24,Crozet-Ouest,Poisson des glaces,89.7
+235,Saint Paul,2024-07-03,Kerguelen nord ,Legine australe,452.9
+236,Amsterdam I,08/12/2023,Crozet-Ouest ,Poisson des glaces,56.7
+237,Amsterdam I,08/04/24,Kerguelen-Nord,Langouste,111.5
+238,Cap Horn,14/11/2023,Crozet-Est,Legine australe,384.8
+239,Austral Leader,02/12/23,Kerguelen-Golfe du Morbihan,Langouste,118.6
+240,Kerguelen Etoile,08-05-2025,Kerguelen-Nord,Langouste,30.1
+241,Amsterdam I,10-07-2023,Kerguelen-Golfe du Morbihan,Langouste,69.8
+242,Saint Paul,21/06/23,Kerguelen nord ,Poisson des glaces,33.5
+243,Kerguelen Etoile,2025-08-08,Crozet-Ouest,Poisson des glaces,58.4
+244,Marion Dufresne (peche),05/09/25,Crozet-Ouest,Raie,18.5
+245,Pointe Geologie,2023-09-24,Kerguelen-Sud,Poulpe austral,35.2
+246,Croix du Sud,2025-12-22,Kerguelen-Nord,Raie,1.3
+247,Croix du Sud,24/02/25,,Poulpe austral,17.1
+248,Croix du Sud,25-06-2025,Kerguelen-Golfe du Morbihan,Raie,7.8
+249,Saint Paul,26/02/24,Kerguelen nord ,Langouste,68.0
+250,Curieuse,05/12/2023,Kerguelen-Golfe du Morbihan,Poulpe austral,13.2
+251,Croix du Sud,2024-04-13,Kerguelen-Nord,Raie,10.3
+252,Saint Paul,24-03-2024,Kerguelen-Golfe du Morbihan,Poisson des glaces,89.5
+253,Austral Leader,27/01/2025,,Legine australe,359.3
+254,Croix du Sud,05/12/2023,Kerguelen-Sud,Raie,n/a
+255,Curieuse,16/11/2024,Kerguelen-Golfe du Morbihan,Poisson des glaces,
+256,Amsterdam I,18-05-2025,Kerguelen-Sud,Langouste,23.5
+257,Kerguelen Etoile,20-04-2023,Crozet-Ouest ,Poisson des glaces,n/a
+258,Marion Dufresne (peche),2024-10-08,Crozet-Est,Legine australe,-22.1
+259,Amsterdam I,21/01/2024,Crozet Est ,Poisson des glaces,66.3
+260,Pointe Geologie,17/02/2025,Kerguelen-Golfe du Morbihan,Poisson des glaces,92.8
+261,Albatros II,22/10/2025,Kerguelen-Nord,Legine australe,490.3
+262,Marion Dufresne (peche),2023-05-06,Kerguelen-Sud,Poulpe austral,30.7
+263,Kerguelen Etoile,03-12-2025,Kerguelen-Sud,Langouste,57.7
+264,Curieuse,25-07-2025,Kerguelen-Nord,Poisson des glaces,38.8
+265,Marion Dufresne (peche),22/03/24,Kerguelen-Golfe du Morbihan,Raie,14.5
+266,Cap Horn,2024-03-13,Kerguelen nord ,Raie,1.1
+267,Albatros II,25-06-2024,Crozet-Est,Langouste,88.0
+268,Amsterdam I,01/02/2024,Crozet-Est,Poulpe austral,14.3
+269,Marion Dufresne (peche),14/05/23,kerguelen-sud,Poulpe austral,28.0
+270,Kerguelen Etoile,10-05-2023,Crozet-Est,Langouste,69.0
+271,Saint Paul,2023-06-09,Crozzet-Est,Poulpe austral,19.4
+272,Kerguelen Etoile,13-01-2024,Zone inconnue,Raie,9.2
+273,Curieuse,2023-05-11,Crozet-Ouest,Poisson des glaces,32.7
+274,Saint Paul,11/04/25,Kerguelen-Sud,Raie,11.7
+275,Curieuse,22/03/2025,,Poisson des glaces,24.9
+276,Albatros II,27/02/25,Kerguelen Nord,Raie,13.5
+277,Marion Dufresne (peche),15/02/24,Kerguelen-Golfe du Morbihan,Poulpe austral,35.0
+278,Marion Dufresne (peche),26-01-2025,Crozet Est ,Legine australe,543.2
+279,Pointe Geologie,20/11/2023,Kerguelen-Sud,Raie,9.2
+280,Austral Leader,2023-05-08,Kerguelen-Sud,Poisson des glaces,60.9
+281,Amsterdam I,01/06/23,Kerguelen-Sud,Legine australe,755.5
+282,Kerguelen Etoile,11/05/24,Crozzet-Est,Raie,9.3
+283,Saint Paul,10/02/2024,Crozet Est ,Legine australe,536.0
+284,Kerguelen Etoile,2025-04-17,Kerguelen-Nord,Poulpe austral,19.6
+285,Marion Dufresne (peche),06/03/25,Kerguelen-Golfe du Morbihan,Langouste,70.1
+286,Austral Leader,07-04-2025,Crozet Est ,Poulpe austral,35.1
+287,Kerguelen Etoile,07/06/24,Kerguelen-Sud,Poulpe austral,13.9
+288,Marion Dufresne (peche),19/07/2025,Kerguelen-Sud,Poulpe austral,27.6
+289,Albatros II,2025-10-03,Crozet-Ouest,Raie,8.1
+290,Kerguelen Etoile,2025-07-14,Kerguelen-Sud,Langouste,85.2
+291,Kerguelen Etoile,16-03-2025,Kerguelen-Nord,Poisson des glaces,87.2
+292,Austral Leader,07/03/24,,Poulpe austral,17.5
+293,Saint Paul,27/12/24,Crozet-Est,Poulpe austral,
+294,Croix du Sud,2024-01-09,Crozet-Ouest,Poisson des glaces,78.4
+295,Saint Paul,04/09/2025,Kerguelen-Golfe du Morbihan,Raie,15.4
+296,Saint Paul,14/04/2025,kerguelen-sud,Raie,1.6
+297,Albatros II,15/02/2024,kerguelen-sud,Langouste,92.3
+298,Pointe Geologie,21/10/25,Crozet-Ouest,Langouste,122.8
+299,Curieuse,2024-09-09,Kerguelen-Nord,Raie,19.1
+300,Amsterdam I,05/02/25,,Raie,3.4
+301,Kerguelen Etoile,23-03-2023,Zone inconnue,Poisson des glaces,65.1
+302,Marion Dufresne (peche),03/08/2024,Kerguelen-Nord,Raie,10.3
+303,Curieuse,03/12/23,Kerguelen-Nord,Legine australe,348.3
+304,Marion Dufresne (peche),09-08-2023,Kerguelen nord ,Poulpe austral,23.5
+305,Saint Paul,25/11/2024,Kerguelen-Sud,Legine australe,693.2
+306,Saint Paul,2024-01-14,,Langouste,52.3
+307,Albatros II,12-11-2023,Crozet-Ouest,Legine australe,279.1
+308,Croix du Sud,03/11/2024,Kerguelen-Sud,Legine australe,219.6
+309,Saint Paul,23-01-2023,Zone inconnue,Langouste,42.1
+310,Cap Horn,04-02-2025,Kerguelen-Nord,Langouste,123.9
+311,Kerguelen Etoile,05/11/2025,Crozet-Est,Poulpe austral,18.7
+312,Croix du Sud,05/12/25,Kerguelen-Sud,Langouste,-9.5
+313,Cap Horn,13-12-2025,,Raie,5.7
+314,Cap Horn,20-09-2023,crozet est,Raie,12.5
+315,Croix du Sud,10/07/2025,kerguelen-sud,Poisson des glaces,27.9
+316,Curieuse,01-09-2023,,Langouste,127.5
+317,Marion Dufresne (peche),2024-09-22,Crozet Est ,Legine australe,60.3
+318,Croix du Sud,26/01/23,Kerguelen-Golfe du Morbihan,Poisson des glaces,43.2
+319,Amsterdam I,05-10-2025,Crozet-Est,Poulpe austral,39.0
+320,Kerguelen Etoile,13/06/2025,Kerguelen-Sud,Langouste,n/a
+321,Cap Horn,15/02/2024,Crozet-Ouest,Legine australe,
+322,Kerguelen Etoile,06/01/25,,Poulpe austral,33.3
+323,Albatros II,05-06-2023,Crozet Est ,Legine australe,372.0
+324,Amsterdam I,23/05/2023,Kerguelen-Golfe du Morbihan,Raie,n/a
+325,Curieuse,06-06-2023,Crozet Est ,Langouste,10.4
+326,Austral Leader,16-01-2023,Crozet-Ouest,Langouste,130.0
+327,Amsterdam I,21/12/25,Crozet-Ouest,Poisson des glaces,35.4
+328,Cap Horn,04/06/2025,Kerguelen-Golfe du Morbihan,Legine australe,101.7
+329,Saint Paul,11/05/2024,Crozet-Est,Raie,11.7
+330,Albatros II,08/10/25,Kerguelen-Sud,Langouste,86.5
+331,Croix du Sud,14/01/2023,Kerguelen-Nord,Legine australe,51.1
+332,Marion Dufresne (peche),10/12/2025,Crozet-Ouest,Poisson des glaces,10.7
+333,Kerguelen Etoile,03/05/2025,,Poulpe austral,36.0
+334,Saint Paul,19/02/2025,Kerguelen-Sud,Legine australe,96.7
+335,Kerguelen Etoile,09-05-2023,,Poisson des glaces,74.9
+336,Pointe Geologie,08/05/2024,,Langouste,91.9
+337,Kerguelen Etoile,15/03/23,Crozet-Est,Poulpe austral,31.3
+338,Saint Paul,09/08/2024,Kerguelen-Nord,Poulpe austral,
+339,Pointe Geologie,2023-02-23,,Poisson des glaces,69.3
+340,Albatros II,13/01/23,Kerguelen-Golfe du Morbihan,Langouste,-9.6
+341,Kerguelen Etoile,2023-01-02,Kerguelen-Sud,Raie,18.8
+342,Cap Horn,09/10/2025,Crozet-Est,Langouste,72.1
+343,Kerguelen Etoile,04/06/2023,,Legine australe,480.4
+344,Marion Dufresne (peche),13/01/24,Crozet-Ouest,Langouste,72.4
+345,Kerguelen Etoile,2023-10-20,Kerguelen-Sud,Poisson des glaces,50.5
+346,Cap Horn,05/07/24,Kerguelen-Golfe du Morbihan,Langouste,122.3
+347,Austral Leader,12/12/24,Kerguelen-Sud,Raie,10.5
+348,Marion Dufresne (peche),01-03-2024,Crozet-Est,Raie,n/a
+349,Saint Paul,2025-06-25,,Legine australe,230.9
+350,Amsterdam I,2025-01-25,Kerguelen-Sud,Raie,19.8
+351,Kerguelen Etoile,19-04-2023,Kerguelen nord ,Poulpe austral,
+352,Pointe Geologie,2025-10-05,Crozzet-Est,Poulpe austral,20.6
+353,Cap Horn,2023-04-20,Kerguelen-Sud,Legine australe,510.6
+354,Kerguelen Etoile,06-12-2024,Crozet-Ouest,Poulpe austral,7.4
+355,Cap Horn,03-06-2025,Zone inconnue,Poulpe austral,13.5
+356,Kerguelen Etoile,14/12/23,Crozet-Ouest,Poulpe austral,37.3
+357,Pointe Geologie,2023-11-19,Kerguelen-Nord,Langouste,10.3
+358,Curieuse,2024-10-02,Kerguelen-Golfe du Morbihan,Langouste,24.6
+359,Saint Paul,24/06/2023,Kerguelen-Nord,Langouste,144.8
+360,Pointe Geologie,2024-01-09,Crozet-Est,Raie,3.1
+361,Austral Leader,15/07/23,,Poisson des glaces,41.0
+362,Amsterdam I,27/02/24,kerguelen-sud,Langouste,121.9
+363,Austral Leader,11-01-2024,,Legine australe,715.9
+364,Kerguelen Etoile,18/02/2025,Kerguelen-Golfe du Morbihan,Poisson des glaces,46.0
+365,Kerguelen Etoile,06/07/2025,Crozet-Ouest,Langouste,87.6
+366,Amsterdam I,10-11-2024,Crozet-Est,Poisson des glaces,84.8
+367,Kerguelen Etoile,01/06/23,Kerguelen-Golfe du Morbihan,Poisson des glaces,7.4
+368,Kerguelen Etoile,03/05/25,Crozet-Ouest ,Poisson des glaces,90.0
+369,Albatros II,18/11/23,Kerguelen-Sud,Raie,1.8
+370,Saint Paul,08-05-2024,Crozet-Ouest,Legine australe,-20.5
+371,Amsterdam I,08/10/2024,Zone inconnue,Poulpe austral,37.6
+372,Curieuse,10/08/2023,Crozet-Est,Poulpe austral,21.6
+373,Curieuse,05/10/2025,,Poisson des glaces,98.5
+374,Croix du Sud,02/03/23,Kerguelen-Sud,Langouste,97.8
+375,Curieuse,24/06/2024,Kerguelen-Golfe du Morbihan,Poisson des glaces,86.4
+376,Amsterdam I,26/01/24,Crozet-Ouest,Langouste,91.6
+377,Cap Horn,25/10/2023,Kerguelen nord ,Poisson des glaces,67.2
+378,Curieuse,2025-08-02,Crozet-Ouest,Poulpe austral,28.4
+379,Austral Leader,2024-06-23,Kerguelen-Sud,Raie,1.4
+380,Albatros II,27/05/24,Crozet Est ,Langouste,146.4
+381,Saint Paul,24/05/24,Crozet-Est,Langouste,137.9
+382,Marion Dufresne (peche),25-08-2025,Kerguelen Nord,Legine australe,430.1
+383,Kerguelen Etoile,2025-10-01,Crozet-Ouest,Legine australe,392.3
+384,Pointe Geologie,09-04-2025,Zone inconnue,Legine australe,231.5
+385,Saint Paul,06/08/25,Kerguelen-Nord,Raie,18.0
+386,Cap Horn,13/01/2024,Kerguelen-Golfe du Morbihan,Langouste,100.6
+387,Croix du Sud,14/11/2024,crozet est,Poisson des glaces,66.5
+388,Curieuse,09-04-2023,Crozet-Ouest ,Poisson des glaces,85.9
+389,Saint Paul,15-04-2024,Zone inconnue,Poulpe austral,21.4
+390,Pointe Geologie,20-11-2025,Crozet-Est,Poisson des glaces,n/a
+391,Albatros II,28-06-2025,Kerguelen-Nord,Langouste,117.2
+392,Austral Leader,22-07-2025,crozet est,Poisson des glaces,29.6
+393,Marion Dufresne (peche),24/07/2024,Kerguelen-Golfe du Morbihan,Langouste,109.9
+394,Amsterdam I,22-08-2025,Crozet-Ouest,Poulpe austral,5.7
+395,Kerguelen Etoile,2025-05-24,,Raie,5.2
+396,Croix du Sud,14-05-2025,Kerguelen-Golfe du Morbihan,Raie,3.2
+397,Austral Leader,19/10/2025,Crozet-Ouest,Poulpe austral,27.9
+398,Amsterdam I,2024-07-02,Crozet-Ouest,Raie,11.8
+399,Saint Paul,2023-06-28,Crozzet-Est,Raie,4.4
+400,Austral Leader,2023-08-09,Kerguelen Nord,Poulpe austral,20.6
+401,Cap Horn,14/10/23,Kerguelen-Sud,Poisson des glaces,
+402,Amsterdam I,12/12/2023,kerguelen-sud,Legine australe,520.0
+403,Croix du Sud,12-12-2023,Kerguelen-Sud,Poulpe austral,8.3
+404,Austral Leader,15-05-2024,Crozet-Ouest,Raie,10.3
+405,Croix du Sud,2023-07-01,Crozet-Ouest,Langouste,92.6
+406,Kerguelen Etoile,23/06/2023,Kerguelen-Nord,Poulpe austral,24.6
+407,Austral Leader,21/02/2025,Crozet-Est,Poisson des glaces,16.7
+408,Albatros II,2024-12-05,crozet est,Raie,2.9
+409,Amsterdam I,2024-10-20,Crozet-Est,Poulpe austral,6.5
+410,Cap Horn,2023-08-07,kerguelen-sud,Raie,6.6
+411,Austral Leader,07/08/25,Crozet-Est,Legine australe,730.2
+412,Curieuse,05/08/2025,Crozet Est ,Legine australe,533.3
+413,Saint Paul,15/05/2024,Crozet-Ouest,Legine australe,320.2
+414,Pointe Geologie,04/12/2024,crozet est,Legine australe,547.5
+415,Kerguelen Etoile,15-06-2024,Crozet Est ,Raie,4.5
+416,Marion Dufresne (peche),09/08/24,Crozzet-Est,Poisson des glaces,80.7
+417,Cap Horn,24/12/2023,,Langouste,137.6
+418,Saint Paul,2025-11-15,Kerguelen-Nord,Poulpe austral,
+419,Kerguelen Etoile,04/08/24,Crozet-Est,Raie,1.2
+420,Amsterdam I,2025-10-24,,Raie,14.1
+421,Curieuse,2023-07-22,Kerguelen-Sud,Langouste,88.2
+422,Curieuse,2023-01-21,Kerguelen-Sud,Poisson des glaces,12.1
+423,Saint Paul,11-04-2024,Crozet-Ouest,Poulpe austral,17.3
+424,Croix du Sud,15/08/23,Kerguelen-Sud,Poisson des glaces,98.2
+425,Austral Leader,14/07/2023,Crozet-Est,Legine australe,772.4
+426,Albatros II,07/09/25,,Raie,16.5
+427,Saint Paul,25/09/24,Kerguelen nord ,Poisson des glaces,77.1
+428,Croix du Sud,12-06-2023,Kerguelen-Nord,Legine australe,
+429,Kerguelen Etoile,27/03/24,Kerguelen-Golfe du Morbihan,Langouste,140.2
+430,Marion Dufresne (peche),2023-08-27,Crozet Est ,Poisson des glaces,
+431,Curieuse,2023-08-15,,Legine australe,86.4
+432,Marion Dufresne (peche),2025-08-17,Kerguelen Nord,Langouste,102.1
+433,Curieuse,13/09/24,,Langouste,144.9
+434,Albatros II,05/03/24,Kerguelen-Golfe du Morbihan,Raie,11.4
+435,Pointe Geologie,2025-12-18,Kerguelen-Golfe du Morbihan,Raie,18.5
+436,Kerguelen Etoile,06-11-2025,Kerguelen nord ,Poulpe austral,23.7
+437,Marion Dufresne (peche),27-12-2025,Zone inconnue,Legine australe,69.0
+438,Kerguelen Etoile,2023-11-02,Crozet-Ouest,Raie,3.8
+439,Austral Leader,07/05/2025,Kerguelen-Sud,Legine australe,556.6
+440,Amsterdam I,21/12/23,Kerguelen-Nord,Legine australe,340.7
+441,Pointe Geologie,01-01-2025,Kerguelen-Sud,Langouste,108.6
+442,Pointe Geologie,2025-09-24,kerguelen-sud,Raie,19.7
+443,Cap Horn,24/03/2023,Kerguelen-Sud,Raie,3.5
+444,Curieuse,11/01/24,Kerguelen Nord,Legine australe,292.0
+445,Austral Leader,27-10-2025,Kerguelen-Golfe du Morbihan,Poulpe austral,31.8
+446,Pointe Geologie,06/04/2025,Kerguelen Nord,Poisson des glaces,43.3
+447,Pointe Geologie,22-04-2023,Kerguelen-Nord,Langouste,96.6
+448,Saint Paul,01/11/2025,Crozzet-Est,Langouste,95.9
+449,Curieuse,22-01-2023,Crozet-Est,Poisson des glaces,73.8
+450,Austral Leader,17/06/25,Kerguelen-Nord,Langouste,21.5
+451,Cap Horn,18/09/2023,Crozet-Ouest,Langouste,69.4
+452,Cap Horn,27/09/23,Crozet-Est,Langouste,
+453,Pointe Geologie,03/02/2023,Kerguelen-Nord,Poulpe austral,n/a
+454,Croix du Sud,13/07/24,Kerguelen-Sud,Raie,
+455,Cap Horn,21/01/2025,crozet est,Legine australe,427.1
+456,Albatros II,20/05/2025,Kerguelen-Sud,Poisson des glaces,67.8
+457,Saint Paul,2023-09-08,Crozet-Ouest ,Langouste,134.2
+458,Pointe Geologie,2023-09-28,Crozet-Est,Poulpe austral,22.4
+459,Cap Horn,24-04-2024,Kerguelen-Golfe du Morbihan,Langouste,40.9
+460,Albatros II,06/02/2023,Crozzet-Est,Poulpe austral,n/a
+461,Cap Horn,07/02/24,,Raie,13.5
+462,Cap Horn,2024-10-03,Kerguelen-Sud,Raie,6.8
+463,Curieuse,19-10-2023,Zone inconnue,Langouste,
+464,Croix du Sud,24/12/23,Kerguelen-Nord,Langouste,56.4
+465,Saint Paul,12-08-2024,Crozet-Est,Langouste,21.5
+466,Albatros II,07-09-2023,Crozet Est ,Legine australe,687.2
+467,Austral Leader,2025-10-13,,Poulpe austral,36.0
+468,Amsterdam I,2024-11-25,Crozet-Ouest,Poulpe austral,13.1
+469,Saint Paul,03/09/25,Crozet-Est,Langouste,122.9
+470,Curieuse,2025-03-25,Crozet-Ouest,Poulpe austral,27.1
+471,Kerguelen Etoile,16-12-2025,Kerguelen-Sud,Langouste,n/a
+472,Pointe Geologie,2023-01-22,Kerguelen-Nord,Poisson des glaces,48.2
+473,Austral Leader,11/11/2023,Crozet-Ouest ,Raie,11.8
+474,Marion Dufresne (peche),12/07/2025,Kerguelen-Sud,Langouste,59.4
+475,Pointe Geologie,20/08/2024,Crozet-Ouest,Poisson des glaces,12.3
+476,Albatros II,2023-03-06,Crozet-Est,Langouste,56.2
+477,Cap Horn,16/11/24,Crozet-Ouest,Poisson des glaces,
+478,Austral Leader,2023-10-19,Kerguelen-Golfe du Morbihan,Legine australe,160.1
+479,Kerguelen Etoile,17/03/24,Kerguelen-Golfe du Morbihan,Legine australe,596.0
+480,Albatros II,15/04/23,Kerguelen Nord,Langouste,94.1
+481,Austral Leader,21/02/2025,Crozet-Est,Poisson des glaces,16.7
+482,Curieuse,2024-09-09,Kerguelen-Nord,Raie,19.1
+483,Curieuse,2023-07-22,Kerguelen-Sud,Langouste,88.2
+484,Marion Dufresne (peche),24/07/2024,Kerguelen-Golfe du Morbihan,Langouste,109.9
+485,Austral Leader,2025-10-26,Crozet-Ouest ,Poulpe austral,
+486,Kerguelen Etoile,13/06/2025,Kerguelen-Sud,Langouste,n/a
+487,Saint Paul,09/08/2024,Kerguelen-Nord,Poulpe austral,
+488,Marion Dufresne (peche),2023-05-06,Kerguelen-Sud,Poulpe austral,30.7

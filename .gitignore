@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+
+# Fichiers de travail non utilisés par l'application
+tp_streamlit.py
+src/
+tests/
