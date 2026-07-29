@@ -13,6 +13,12 @@ Il s'agit d'une application Streamlit permettant :
 
 Les données utilisées dans ce projet sont fictives.
 
+## Application en ligne
+
+L'application est accessible ici :
+
+[Ouvrir l'application Streamlit](https://projet-peche-dpqm-8mzjmku3ffsqvvmecom6cd.streamlit.app)
+
 ## Fichiers utilisés
 
 Le dossier `data` contient quatre fichiers CSV :
